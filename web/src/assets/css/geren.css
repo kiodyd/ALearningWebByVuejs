@@ -1,0 +1,37 @@
+.container .mid .F {
+    min-height: 470px;
+    width: 1900px;
+    padding-left: 140px;
+
+    padding-top: 0;
+}
+.F-line{
+    width: 1620px;
+    height: 300px;
+
+}
+.container .mid .F .f {
+    min-height:300px;
+    width: 700px;
+    padding-left: 30px;
+    background-color: white;
+    border-radius: 5px;
+    float: left;
+}
+.F-small{
+
+    font-size: 28px;
+    width: 700px;
+    height: 60px;
+    line-height: 80px;
+    color:#666
+}
+.F-big {
+
+    font-size: 80px;
+    color: #3a4c86;
+    width: 700px;
+    height: 120px;
+    line-height: 140px;
+
+}

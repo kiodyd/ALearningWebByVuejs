@@ -1,0 +1,98 @@
+.mid{
+    background-color:#fafafa;
+}
+#fname2, select {
+    width: 500px;
+    height: 200px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    text-align: center;
+
+
+}
+
+input[type=submit] {
+    width: 80px;
+    color: white;
+    padding: 14px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+}
+
+.container .mid .D {
+    height: 240px;
+    width: 1900px;
+    padding-top:50px;
+}
+
+.container .mid .D .d {
+    width: 530px;
+    height: 300px;
+    border-radius: 5px;
+    margin: auto;
+}
+.container .mid .E {
+    height: 800px;
+    width: 1760px;
+    padding-left: 140px;
+
+}
+.container .mid .E .e{
+    height: 360px;
+    width: 1760px;
+
+    margin-bottom: 80px;
+}
+.E-head{
+    height: 400px;
+    width:130px;
+    float: left;
+}
+.E-right{
+    width: 1630px;
+    height: 400px;
+    float: left;
+}
+.E-info{
+    width: 1630px;
+    height: 50px;
+    float: left;
+}
+.E-name{
+    width: 80px;
+    height: 50px;
+    font-size: 26px;
+    line-height: 50px;
+    float: left;
+    text-align: center;
+}
+.E-say{
+
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    line-height: 58px;
+    float: left;
+}
+.E-content{
+    width:800px;
+    height: 100px;
+    color:#999;
+    margin-left: 80px;
+    font-size: 20px;
+    padding-top:20px;
+}
+.E-reply{
+    margin-left: 80px;
+    width: 1300px;
+    height: 110px;
+    background-color: white;
+    padding:20px ;
+    margin-top:20px;
+}
